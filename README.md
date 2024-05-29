@@ -1,7 +1,7 @@
 <h1 align="center">📋 TODO App</h1>
 
 <p align="center">
-  <img src="https://www.pngitem.com/pimgs/m/474-4741385_todo-app-logo-transparent-hd-png-download.png" alt="TODO App Logo" width="150">
+  <img src="https://www.pngitem.com/pimgs/m/509-5099434_todo-app-logo-transparent-hd-png-download.png" alt="TODO App Logo" width="150">
 </p>
 
 <p align="center">
