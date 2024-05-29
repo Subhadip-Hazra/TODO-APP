@@ -13,7 +13,7 @@ const Header = ({ onAddTask }) => {
     };
 
     return (
-        <header className='h-full w-full'>
+        <header className='w-full'>
             <div className='flex justify-center bg-[#0D0D0D] pt-16 pb-12'>
                 <img src={Logo} alt="logo" />
             </div>
